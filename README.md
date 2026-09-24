@@ -1,8 +1,9 @@
 # Hi there, I'm Satyam Singh! 👋
 
 <div align="center">
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=550&lines=Computer+Engineering+Graduate;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+REST+APIs+%26+Microservices;DSA+%26+Problem+Solver;Always+Writing+Clean+%26+Maintainable+Code" alt="Typing SVG" />
 
+  <br/><br/>
   <strong><em>"Building robust backend architectures, one clean commit at a time."</em></strong> ⚡
 </div>
 
