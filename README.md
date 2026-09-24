@@ -3,11 +3,6 @@
 <div align="center">
   
 
-<br/>
-
-<div align="center">
-  <img src="./favicon.jpg" width="130" style="border-radius: 50%;" alt="Silent Coder" />
-  <br/>
   <strong><em>"Building robust backend architectures, one clean commit at a time."</em></strong> ⚡
 </div>
 
