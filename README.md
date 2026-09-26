@@ -1,4 +1,4 @@
-[# Hi there, I'm Satyam Singh! 👋
+# Hi there, I'm Satyam Singh! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=550&lines=Computer+Engineering+Graduate;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+REST+APIs+%26+Microservices;DSA+%26+Problem+Solver;Always+Writing+Clean+%26+Maintainable+Code" alt="Typing SVG" />
@@ -56,13 +56,13 @@ My primary core is centered around **Java**, **Spring Boot**, **Hibernate/JPA**,
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
 | **SupportDesk CRM** | Java, Spring Boot, MySQL, Docker, Cloudinary | Full-stack ticketing platform with role-based auth, optimistic locking, and Gmail SMTP alerts. | [Repo](https://github.com/silent-coder-dev/support-desk-crm) • [Live](https://support-desk-crm-qs00.onrender.com/tickets) |
-| **AI Resume Builder** | React, Node.js, Express, Generative AI API | Intelligent dynamic resume optimizer matching ATS standards with real-time scoring. | [Repo](https://github.com/silent-coder-dev/ai-resume-builder) |
+| **AI Resume Builder** | React, Node.js, Express, Generative AI API | Intelligent dynamic resume optimizer matching ATS standards with real-time scoring. | [Repo](https://github.com/silent-coder-dev/ai-resume-builder) • [Live](https://ai-resume-builder-silent.vercel.app/) |
 | **NutriScan** | React.js, Node.js, Express.js, MongoDB | Food health parameter scanner with real-time sustainability & nutrient scores. | [Repo](https://github.com/silent-coder-dev/NutriScan) |
 
 ---
 
 ## 🚀 Live Dynamic Showcases
-<!-- This dynamically mirrors whatever repositories you pin on your GitHub profile -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=silent-coder-dev&repo=support-desk-crm&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=silent-coder-dev&repo=ai-resume-builder&theme=tokyonight" />
@@ -122,4 +122,3 @@ I am always interested in discussing backend engineering, distributed systems, o
 **Thanks for visiting my profile! ⭐ Star some repositories if you find my work helpful!**
 
 </div>
-](https://ai-resume-builder-silent.vercel.app/)
