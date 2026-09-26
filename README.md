@@ -15,11 +15,11 @@ I am a **Computer Engineering Graduate** passionate about designing concurrency-
 
 My primary core is centered around **Java**, **Spring Boot**, **Hibernate/JPA**, and containerized deployments via **Docker**. I focus on code cleanliness, multithreading fundamentals, and data structures.
 
-* 🔭 **Currently Building:** Backend systems, customer support microservices, and API utilities
-* 💻 **Primary Stack:** Java, Spring Boot, Spring Security, MySQL, Docker
-* 🌱 **Practicing:** Data Structures & Algorithms on LeetCode (@silently_code)
-* 💼 **Open To:** Entry-Level Software Developer, Java Backend Engineer & SDE-1 roles
-* ⚡ **Philosophy:** *"Write code that humans can understand and systems can scale reliably."*
+- 🔭 **Currently Building:** Backend systems, customer support microservices, and AI utilities
+- 💻 **Primary Stack:** Java, Spring Boot, Spring Security, MySQL, Docker
+- 🌱 **Practicing:** Data Structures & Algorithms on LeetCode (@silently_code)
+- 💼 **Open To:** Entry-Level Software Developer, Java Backend Engineer & SDE-1 roles
+- ⚡ **Philosophy:** *"Write code that humans can understand and systems can scale reliably."*
 
 ---
 
@@ -55,8 +55,18 @@ My primary core is centered around **Java**, **Spring Boot**, **Hibernate/JPA**,
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **SupportDesk CRM** | Java, Spring Boot, MySQL, Docker, Cloudinary | Full-stack ticketing platform with role-based auth, optimistic locking, and Gmail SMTP alerts. | [Repo](https://github.com/silently-feel/support-desk-crm) • [Live](https://support-desk-crm-qs00.onrender.com/tickets) |
-| **NutriScan** | React.js, Node.js, Express.js, MongoDB | Food health parameter scanner with real-time sustainability & nutrient scores. | [Repo](https://github.com/silently-feel) |
+| **SupportDesk CRM** | Java, Spring Boot, MySQL, Docker, Cloudinary | Full-stack ticketing platform with role-based auth, optimistic locking, and Gmail SMTP alerts. | [Repo](https://github.com/silent-coder-dev/support-desk-crm) • [Live](https://support-desk-crm-qs00.onrender.com/tickets) |
+| **AI Resume Builder** | React, Node.js, Express, Generative AI API | Intelligent dynamic resume optimizer matching ATS standards with real-time scoring. | [Repo](https://github.com/silent-coder-dev/ai-resume-builder) |
+| **NutriScan** | React.js, Node.js, Express.js, MongoDB | Food health parameter scanner with real-time sustainability & nutrient scores. | [Repo](https://github.com/silent-coder-dev/NutriScan) |
+
+---
+
+## 🚀 Live Dynamic Showcases
+<!-- This dynamically mirrors whatever repositories you pin on your GitHub profile -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=silent-coder-dev&repo=support-desk-crm&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=silent-coder-dev&repo=ai-resume-builder&theme=tokyonight" />
+</div>
 
 ---
 
@@ -64,15 +74,15 @@ My primary core is centered around **Java**, **Spring Boot**, **Hibernate/JPA**,
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silently-code&theme=tokyonight" alt="GitHub Stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silent-coder-dev&theme=tokyonight" alt="GitHub Stats" />
 
-<img width="48%" src="https://streak-stats.demolab.com?user=silently-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="48%" src="https://streak-stats.demolab.com?user=silent-coder-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silently-code&theme=tokyonight" alt="Top Languages by Repository" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silent-coder-dev&theme=tokyonight" alt="Top Languages by Repository" />
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silently-code&theme=tokyonight" alt="Top Languages by Commit" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silent-coder-dev&theme=tokyonight" alt="Top Languages by Commit" />
 
 </div>
 
@@ -82,7 +92,7 @@ My primary core is centered around **Java**, **Spring Boot**, **Hibernate/JPA**,
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silently-code&theme=tokyonight" alt="GitHub Contribution Activity" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silent-coder-dev&theme=tokyonight" alt="GitHub Contribution Activity" />
 
 </div>
 
@@ -94,10 +104,9 @@ I am always interested in discussing backend engineering, distributed systems, o
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=black)](http://localhost:5173)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-singh-05b369376/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/silently_code/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silently-feel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silent-coder-dev)
 
 <br/>
 
@@ -106,7 +115,7 @@ I am always interested in discussing backend engineering, distributed systems, o
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=silently-code&style=for-the-badge&color=06B6D4" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=silent-coder-dev&style=for-the-badge&color=06B6D4" alt="Profile Views" />
 
 <br/><br/>
 
